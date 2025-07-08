@@ -1,2 +1,2 @@
-# Stock_Price_forecasting
-Using Lstm architecture to predict stock market price
+# Forex_Price_forecastin
+Using Lstm architecture to predict INR-X Forex price
